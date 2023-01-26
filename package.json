@@ -1,18 +1,19 @@
 {
-  "name": "sheepshead-server",
-  "version": "1.0.0",
-  "description": "A server for my sheepshead game ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "sheepshead",
-    "game"
-  ],
-  "author": "John McGorey",
-  "license": "ISC",
-  "dependencies": {
-    "typescript": "^4.9.4"
-  }
+	"name": "sheepshead-server",
+	"version": "1.0.0",
+	"description": "A server for my sheepshead game ",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"sheepshead",
+		"game"
+	],
+	"author": "John McGorey",
+	"license": "ISC",
+	"dependencies": {
+		"typescript": "^4.9.4"
+	}
 }
